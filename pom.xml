@@ -10,6 +10,7 @@
     <groupId>com.springcloud.demo</groupId>
     <artifactId>nacos-demo</artifactId>
     <version>${nacos-demo.version}</version>
+    <packaging>pom</packaging>
     <name>nacos-demo</name>
 
     <modules>
